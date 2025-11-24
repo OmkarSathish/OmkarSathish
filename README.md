@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on GenerativeAI and Asynchronous Backends.<br>👯 I’m looking to collaborate on anything related to microservices, distributed sytstems or AI<br>🌱 I’m currently learning about Distributed Systems
+🔭 I’m currently working on GenerativeAI and Backend Systems.<br>👯 I’m looking to collaborate on anything related to microservices, distributed sytstems or AI<br>🌱 I’m currently learning about Distributed Systems
 
 ##  Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
